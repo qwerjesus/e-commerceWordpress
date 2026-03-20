@@ -2,6 +2,7 @@
 wp-content/uploads/
 wp-content/upgrade/
 wp-content/cache/
+wp-content/languages/
 
 #ignorar BBDD y env
 .env
