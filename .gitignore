@@ -1,0 +1,10 @@
+# ignorar archivos de wordpress
+wp-content/uploads/
+wp-content/upgrade/
+wp-content/cache/
+
+#ignorar BBDD y env
+.env
+*.sqlp
+db_data/
+mysql/	
