@@ -6,6 +6,6 @@ wp-content/languages/
 
 #ignorar BBDD y env
 .env
-*.sqlp
+*.sql
 db_data/
-mysql/	
+mysql/
